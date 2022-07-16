@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63611402797",
+    "project_id": "arplatform-3634f",
+    "storage_bucket": "arplatform-3634f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63611402797:android:c97b5081a21e8c1df516a4",
+        "android_client_info": {
+          "package_name": "com.brainover.arplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63611402797-f0fusqgcfgop1t1gkjck313k75a1shpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZMTQHlzPGPYRZE1diUVQJCosdG4xdVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63611402797-f0fusqgcfgop1t1gkjck313k75a1shpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
